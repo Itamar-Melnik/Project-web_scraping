@@ -47,7 +47,6 @@ Each team was assigned to collect data for **one specific manufacturer**. This i
 .
 ├── project.ipynb           # Main scraping & initial cleaning notebook
 ├── output (1).csv          # Collected dataset (54 Peugeot records)
-├── requirements.txt        # Python dependencies
 └── README.md              # This file
 ```
 
